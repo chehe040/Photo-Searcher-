@@ -45,7 +45,7 @@ $ npm start
 
 All the assets are already included so you can run the application and it will work. 
 
-## Contributing
+
 
 
 
