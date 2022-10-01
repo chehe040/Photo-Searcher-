@@ -27,7 +27,7 @@
 Download the repo with:
 
 ```bash
-$ git clone https://github.com/Aimanski12/ReactJS_Projects/tree/proj15 proj-name
+$ git clone https://github.com/chehe040/Photo-Searcher- proj-name
 ```
 
 After downloading the repo, go to [Pexels API](https://www.pexels.com/api/documentation/) and sign-up for an API Key. Then enter your api key at the `.src/config.js` file. You can cd into the `proj-name` and then open up your console and type 
